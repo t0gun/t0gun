@@ -1,1 +1,1 @@
-Cloud & DevOps Engineer with a strong cybersecurity foundation. I design and automate scalable, secure infrastructures in AWS/Kubernetes. i have a  track record in reducing deployment times, hardening cloud systems, and delivering reliable cloud-native operations.
+I am DevOps Engineer with a swith a background spanning networks, servers and  security. I design and automate scalable, secure infrastructures in AWS/Kubernetes. i have a  track record in reducing deployment times, hardening cloud systems, and delivering reliable cloud-native operations.
